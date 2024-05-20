@@ -1,1 +1,5 @@
-# submission04_memo
+# 週間MemoApp
+
+## 内容
+・週ごとの曜日
+
